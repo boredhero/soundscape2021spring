@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/boredhero/soundscape2021spring/master/assets/Oakland%20at%20Night.png" width="200" height="200" <p align=center>/>
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/boredhero/soundscape2021spring/master/assets/Oakland%20at%20Night.png">
+</p>
 
 # Oakland at Night 🌒
 
