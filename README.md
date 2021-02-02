@@ -6,7 +6,7 @@ This is the repository for my soundscape narrative project where I will be recor
 
 ### ASSETS.md
 
-Please see ASSETS.md for a list of planned assets for this project.
+Please see [ASSETS.md](https://github.com/boredhero/soundscape2021spring/blob/master/ASSETS.md) for a list of planned assets for this project.
 
 ### Project Proposal
 
