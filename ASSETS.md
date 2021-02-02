@@ -12,3 +12,5 @@
 | :---: |   :---:   |
 | Music | [CC-Licensed Music](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/) |
 | Sound Effects | [CC-Licensed Sound Effects (FreeSound)](https://freesound.org/) |
+
+Anything not explicitely cited here is my creation and is available to you under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
