@@ -2,7 +2,7 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/boredhero/soundscape2021spring/master/assets/Oakland%20at%20Night.png">
 </p>
 
-# Oakland at Night 🌒
+# <p align="center"><b>Oakland at Night 🌒</b></p>
 
 This is the repository for my soundscape narrative project where I will be recording myself walking around Oakland in the early morning hours (1am-4am).
 
