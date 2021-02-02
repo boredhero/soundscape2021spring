@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/boredhero/soundscape2021spring/master/assets/Oakland%20at%20Night.png">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/boredhero/soundscape2021spring/master/assets/Oakland%20at%20Night.png">
 </p>
 
 # <p align="center"><b>Oakland at Night 🌒</b></p>
