@@ -2,7 +2,7 @@
 
 This is the repository for my soundscape narrative project where I will be recording myself walking around Oakland in the early morning hours (1am-4am).
 
-There will be pretty graphics and fancy stuff coming to this readme sooner or later.
+*There will be pretty graphics and fancy stuff coming to this readme sooner or later.*
 
 ### ASSETS.md
 
