@@ -1,4 +1,4 @@
-# Oakland at Night
+# Oakland at Night 🌒
 
 This is the repository for my soundscape narrative project where I will be recording myself walking around Oakland in the early morning hours (1am-4am).
 
